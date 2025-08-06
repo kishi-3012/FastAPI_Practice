@@ -1,0 +1,25 @@
+# Python virtual environment
+practice/
+practice1/
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database file
+*.db
+
+# VS Code settings (if using)
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Logs
+*.log
